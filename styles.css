@@ -1,0 +1,37 @@
+.interesting-fact {
+    font-style: italic;
+}
+
+.list-item {
+    font-weight: bold;
+}
+
+.cat-list {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.cat-inner {
+    width: 270px;
+    padding: 15px;
+    background-color: orange;
+    
+}
+
+.cat-outer {
+    width: 300px;
+    padding: 15px;
+    background-color: gray;
+    
+}
+
+.border {
+    border: 2px solid;
+    border-color: #d3d3d3;
+    border-radius: 25px;
+}
+
+img {
+    padding-bottom: 10px;
+}
